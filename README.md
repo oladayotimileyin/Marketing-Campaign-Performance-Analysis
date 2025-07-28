@@ -46,6 +46,8 @@ Paying Customers: 368
 
 ## 🔍 Key Findings
 
+![Geographic Performance](Images/Performance_by_location.png)
+
 ### 1. Geographic Performance Disparities
 **Birmingham Market Dominance:**
 - Leads 4 out of 5 service categories
@@ -80,6 +82,10 @@ Funnel Performance:
 5. **Garden Redesign**: 193 average ROAS
 
 ---
+
+## Dashboard
+![Dashboard](Images/Executive_Marketing_Dashboard_page-0001.png)
+
 
 ## 🎯 Strategic Recommendations
 
@@ -143,8 +149,8 @@ Window Installation: -20% overall, pause London campaigns
 ## 🛠️ Tools & Technologies Used
 
 - **Data Analysis**: Excel, Statistical Analysis
-- **Visualization**: Custom Dashboard Design
-- **Presentation**: Interactive HTML/CSS/JavaScript Slide Deck
+- **Visualization**: Excel
+- **Presentation**: Microsoft PPT
 - **Strategic Planning**: Financial Modeling, Scenario Analysis
 - **Documentation**: Markdown, GitHub
 
