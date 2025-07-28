@@ -84,7 +84,7 @@ Funnel Performance:
 ---
 
 ## Dashboard
-![Dashboard](Images/Executive_Marketing_Dashboard_page-0001.png)
+![Dashboard](Images/Executive_Marketing_Dashboard_page-0001.jpg)
 
 
 ## 🎯 Strategic Recommendations
