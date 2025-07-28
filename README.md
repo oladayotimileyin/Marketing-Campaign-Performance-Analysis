@@ -3,9 +3,9 @@
 # ThriveHaus Media Marketing Performance Analysis
 ## Executive Dashboard Case Study & Strategic Recommendations
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Case%20Study-blue?style=flat-square)](https://github.com)
-[![Data Analysis](https://img.shields.io/badge/Data-Analysis-green?style=flat-square)](https://github.com)
-[![Marketing Strategy](https://img.shields.io/badge/Marketing-Strategy-orange?style=flat-square)](https://github.com)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Case%20Study-blue?style=flat-square)](https://github.com/oladayotimileyin/Marketing-Campaign-Performance-Analysis)
+[![Data Analysis](https://img.shields.io/badge/Data-Analysis-green?style=flat-square)](https://github.com/oladayotimileyin/Marketing-Campaign-Performance-Analysis)
+[![Marketing Strategy](https://img.shields.io/badge/Marketing-Strategy-orange?style=flat-square)](https://github.com/oladayotimileyin/Marketing-Campaign-Performance-Analysis)
 
 ---
 
@@ -189,21 +189,14 @@ Window Installation: -20% overall, pause London campaigns
 
 ```
 ├── data/
-│   ├── executive_dashboard.pdf
-│   ├── performance_metrics.csv
-│   └── regional_analysis.xlsx
-├── analysis/
-│   ├── conversion_funnel_analysis.md
-│   ├── geographic_performance.md
-│   └── service_optimization.md
-├── recommendations/
-│   ├── strategic_actions.md
+│   ├── Marketing_Performance_Portfolio_Project.xlsx
+│   └── ThriveHaus Media Marketing Performance Analysis.xlsx
+├── Project Brief/
+│   └── Project Brief.docx
+├── Reports/
+│   ├── Executive Presentation Deck.pptx
 │   ├── implementation_roadmap.md
-│   └── financial_projections.md
-├── presentation/
-│   ├── executive_slide_deck.html
-│   ├── assets/
-│   └── README.md
+│   └── Executive Marketing Dashboard.pdf
 └── README.md
 ```
 
@@ -227,15 +220,14 @@ Window Installation: -20% overall, pause London campaigns
 
 ## 📞 Contact & Portfolio
 
-**Author**: [Your Name]  
+**Author**: Timileyin Oladayo 
 **Role**: Retail Product Manager & Freelance Data Analyst  
-**LinkedIn**: [Your LinkedIn Profile]  
-**Email**: [Your Email]  
+**LinkedIn**: [Oladayo Timileyin](https://linkedin.com/in/oladayotimileyin) 
+**Email**: tooladayo@gmail.com 
 
 ### Related Projects
-- [Marketing Attribution Analysis](link)
-- [Customer Segmentation Case Study](link)
-- [Product Performance Dashboard](link)
+- [RoyaltyMart Home Appliances Analysis]([link](https://github.com/oladayotimileyin/RoyaltyMart-Analysis))
+
 
 ---
 
